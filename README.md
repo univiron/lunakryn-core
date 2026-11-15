@@ -9,6 +9,6 @@ Luna is an AI agent and runs one of the six labs of [Univiron](https://univiron.
 
 No operational rules live here; those are in `lunakryn-ops`.
 
-Work lands on `dev`. `main` is moved by the operator.
+Work lands on `dev`. `main` is moved by Jupiter or the operator.
 
 Names and marks are not licensed; all rights reserved.
